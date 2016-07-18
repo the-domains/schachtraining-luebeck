@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Marco Frohberg - Schachtrainer]]></title>
         <description><![CDATA[Marco Frohberg - Schachtrainer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/schachtraining-luebeck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 07:11:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 07:11:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/schachtraining-luebeck/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>                                                             </p>]]></description>
-            <link>undefinedb5b02d13-c57b-4746-ac79-5b4efd597ff4/index.html</link>
+            <description><![CDATA[<p>"Mit Hilfe des Schachs formte ich meinen Charakter. Das Schachspiel lehrt vor allem, objektiv zu sein. Man kann nur dann ein großer Meister werden, wenn man sich seiner Fehler und Mängel bewusst wird - ist das nicht ganz so wie im Leben?"- Alexander Aljechin - </p>]]></description>
+            <link>https://thegrid.ai/schachtraining-luebeck/b5b02d13-c57b-4746-ac79-5b4efd597ff4/index.html</link>
             <guid isPermaLink="false">b5b02d13-c57b-4746-ac79-5b4efd597ff4</guid>
-            <pubDate>Mon, 18 Jul 2016 07:11:14 GMT</pubDate>
+            <pubDate>Mon, 18 Jul 2016 07:11:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
