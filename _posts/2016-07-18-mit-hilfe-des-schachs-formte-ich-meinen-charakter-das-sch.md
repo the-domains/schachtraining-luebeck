@@ -1,0 +1,25 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: >-
+  " Mit Hilfe des Schachs formte ich meinen Charakter. Das Schachspiel lehrt vor
+  allem, objektiv zu sein. Man kann nur dann ein großer Meister werden, wenn man
+  sich seiner Fehler und Mängel bewusst wird - ist das nicht ganz so wie im
+  Leben?
+datePublished: '2016-07-18T07:18:58.643Z'
+dateModified: '2016-07-18T07:18:58.173Z'
+title: ''
+author: []
+authors: []
+publisher: null
+starred: false
+sourcePath: _posts/2016-07-18-mit-hilfe-des-schachs-formte-ich-meinen-charakter-das-sch.md
+url: mit-hilfe-des-schachs-formte-ich-meinen-charakter-das-sch/index.html
+_type: Article
+
+---
+> **"**  
+> Mit Hilfe des Schachs formte ich meinen Charakter. Das Schachspiel lehrt vor allem, objektiv zu sein. Man kann nur dann ein großer Meister werden, wenn man sich seiner Fehler und Mängel bewusst wird - ist das nicht ganz so wie im Leben?
