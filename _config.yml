@@ -1,20 +1,8 @@
-title: Marco Frohberg - Schachtrainer
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.4851064
-favicon: null
 name: Schachtraining Lübeck
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4851064
+typography_spectrum: 0.69384
+title: Marco Frohberg - Schachtrainer
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.1875
-  saturation: 0.625
   brandColors:
-    - '#ffffff'
-    - '#d4d0cd'
-    - '#000000'
-    - '#4e424c'
-    - '#897576'
+    - '#fee6cc'
+    - '#0d1723'
+    - '#f2c165'
+    - '#1e4c42'
+    - '#b8854c'
+  brandStrength: 0.1875
   lightness: 0.75
-  rhythmicContrast: 0
-typography_spectrum: 0.69384
+  saturation: 0.5
+  rhythmicContrast: 0.25
+purpose: []
