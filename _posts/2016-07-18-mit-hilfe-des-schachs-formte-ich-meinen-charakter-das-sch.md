@@ -5,12 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  "Mit Hilfe des Schachs formte ich meinen Charakter. Das Schachspiel lehrt vor
+  " Mit Hilfe des Schachs formte ich meinen Charakter. Das Schachspiel lehrt vor
   allem, objektiv zu sein. Man kann nur dann ein großer Meister werden, wenn man
   sich seiner Fehler und Mängel bewusst wird - ist das nicht ganz so wie im
   Leben?
-datePublished: '2016-07-18T17:52:02.839Z'
-dateModified: '2016-07-18T17:51:37.242Z'
+datePublished: '2016-07-18T17:53:51.144Z'
+dateModified: '2016-07-18T17:52:08.857Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-18-mit-hilfe-des-schachs-formte-ich-meinen-charakter-das-sch.md
