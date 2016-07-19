@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Wenn Sie sich fragen,'
-datePublished: '2016-07-18T18:27:28.273Z'
-dateModified: '2016-07-18T18:27:27.782Z'
+datePublished: '2016-07-18T18:34:23.387Z'
+dateModified: '2016-07-18T18:32:23.540Z'
 title: 'Moin, Moin und herzlich willkommen,'
 author: []
 sourcePath: _posts/2016-07-18-moin-moin-und-herzlich-willkommen.md
