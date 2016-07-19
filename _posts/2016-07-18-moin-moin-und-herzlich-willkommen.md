@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Wenn Sie sich fragen,'
-datePublished: '2016-07-18T18:20:18.940Z'
-dateModified: '2016-07-18T18:20:00.869Z'
+datePublished: '2016-07-18T18:27:28.273Z'
+dateModified: '2016-07-18T18:27:27.782Z'
 title: 'Moin, Moin und herzlich willkommen,'
 author: []
+sourcePath: _posts/2016-07-18-moin-moin-und-herzlich-willkommen.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-18-moin-moin-und-herzlich-willkommen.md
 url: moin-moin-und-herzlich-willkommen/index.html
 _type: WebPage
 
