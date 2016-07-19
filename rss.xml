@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Marco Frohberg - Schachtrainer]]></title>
         <description><![CDATA[Marco Frohberg - Schachtrainer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/schachtraining-luebeck/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jul 2016 18:37:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jul 2016 18:38:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/schachtraining-luebeck/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Alpina Feine Farben: Farbfamilie Blau]]></title>
+            <description><![CDATA[<article><h1>Alpina Feine Farben: Farbfamilie Blau</h1><p>Blau ist unaufdringlich und vielschichtig - bleibt lieber im Hintergrund und gibt sich immer etwas kühl und distanziert. Da es weiter entfernt scheint als andere Farben, kann Blau uns Perspektive und Raumtiefe vorspielen, blaue Flächen oder Räume wirken sogar größer. Außerdem beeinflusst Blau die Wahrnehmung und macht den Kopf frei.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ba890d9df33be0e58d0e24964611b02/noop.jpg?input=http%3A%2F%2Falpina-feine-farben.de%2Ffileadmin%2Fuser_upload%2Fno13_bg.jpg"></article>]]></description>
+            <link>http://alpina-feine-farben.de/startseite/farbfamilie-detailansicht/blau/show/Family/</link>
+            <guid isPermaLink="false">0a9c5e90-e3dd-44b5-852b-451a35fd593f</guid>
+            <pubDate>Mon, 18 Jul 2016 18:38:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Jeff Hodsdon]]></title>
             <description><![CDATA[<article><h1>Jeff Hodsdon</h1><p>An old steel frame bike that was passed down through friends. I believe I'm the third owner. It's a tough bike, I'm not afraid to lock it up anywhere. There isn't much to it; one front brake, fixed single gear, and that is about it. A very simple bike, indeed.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/57dee0405aeb036d1ee04fbc12881815/croprotate.jpg?cropheight=1603&cropwidth=2400&degrees=0&input=http%3A%2F%2Fminimums.com%2Fwp-content%2Fuploads%2F2016%2F04%2FJeffHodsdon_065-2400x1602.jpg&x=0&y=0"></article>]]></description>
